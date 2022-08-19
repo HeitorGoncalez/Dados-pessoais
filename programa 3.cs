@@ -9,11 +9,11 @@ namespace Programa
             double salario, altura;
             char genero;
             string nome;
-            idade = 22;
+            idade = 20;
             salario = 5800.5;
             altura = 1.63;
             genero = 'F';
-            nome = "Ronaldo Silva";
+            nome = "Matheus Silva";
             Console.WriteLine(idade);
             Console.WriteLine(salario);
             Console.WriteLine(altura);
